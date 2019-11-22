@@ -1,0 +1,10 @@
+.rows{
+    display: inline-block;
+    margin: 30px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 800px;
+    padding: 20px; 
+    background-color: white;
+    
+  }

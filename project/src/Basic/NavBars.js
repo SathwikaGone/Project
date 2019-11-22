@@ -21,8 +21,8 @@ class NavBars extends Component {
           <Button variant="outline-info">Search</Button>
         </Form>
         <Nav>
-          <Nav.Link href="../Access/Registration">Sign up</Nav.Link>
-          <Nav.Link href="#login">Log in</Nav.Link>
+          <Nav.Link href="/Registration">Sign up</Nav.Link>
+          <Nav.Link href="/login">Log in</Nav.Link>
           </Nav>
     
       </Navbar>
