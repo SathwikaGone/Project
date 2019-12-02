@@ -5,6 +5,39 @@
     box-shadow: 0 2px 2px #ccc;
     width: 800px;
     padding: 20px; 
-    background-color: white;
-    
+    background-color: rgb(146, 220, 243); 
+    margin-left: 300px;
+
+   }
+
+  .login{
+    display: inline-block;
+    margin: 30px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 600px;
+    padding: 20px; 
+    background-color: rgb(146, 220, 243);
+    margin-left: 350px;
+  }
+  
+  .foote{
+    /* position: absolute; */
+    display: inline-block;
+    /* margin: 30px; */
+    /* border: 1px solid #eee; */
+    box-shadow: 0 2px 2px #ccc;
+    width: 1350px;
+    padding: 20px; 
+    background-color:black;
+    color: white;
+    align-content: center; 
+    /* size: 10px; */
+    /* margin-bottom: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px; */
+   
+   
+
   }
